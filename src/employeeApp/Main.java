@@ -12,6 +12,9 @@ public class Main
      */
     private static void workWithData ()
     {
+Company company = new Company(0,"Brutech", Plan.IRA);
+Healthplan healthplan = new Healthplan(0,"IRA", -1, );
+Employee employee = new Employee(0,"Bruno", "burgokmen@gmail.com", "password", [])
 
     }
 
